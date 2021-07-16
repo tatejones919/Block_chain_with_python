@@ -1,0 +1,1 @@
+mnemonic = "swarm floor gloom goat empty barrel paper market eyebrow voyage stereo ethics"
